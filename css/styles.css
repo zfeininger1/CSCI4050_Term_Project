@@ -1,0 +1,7 @@
+.margins {
+    margin: 5%;
+}
+.required-field{
+    content: "*";
+    color: red;
+}
